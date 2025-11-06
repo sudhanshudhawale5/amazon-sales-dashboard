@@ -37,7 +37,6 @@ The goal is to uncover sales trends, identify top-performing products, and gain 
 - **Power BI** – Data visualization, DAX measures, and dashboard creation  
 - **SQL** – Querying and validating dataset results  
 - **Excel** – Data storage and initial data preparation  
-- **Python** – (Optional) For basic data cleaning and transformations  
 
 ---
 
@@ -71,6 +70,7 @@ The goal is to uncover sales trends, identify top-performing products, and gain 
 ## 🔹 Author
 👤 **Sudhanshu Dhawale**  
 📧 **sudhanshudhawale1@gmail.com**  
+
 
 
 
