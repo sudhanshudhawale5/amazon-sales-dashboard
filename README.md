@@ -20,7 +20,7 @@ The goal is to uncover sales trends, identify top-performing products, and gain 
 - **Quarter-to-Date (QTD) Sales:** $811.09K  
 - **Total Product Sales:** 27.75K  
 - **Total Reviews:** 19.42M  
-- **Data Source:** Excel dataset (`amazon_sales_data.xlsx`) verified using SQL queries.  
+- **Data Source:** Excel dataset (`amazon_sales.xlsx`) verified using SQL queries.  
 
 ---
 
@@ -54,7 +54,7 @@ The goal is to uncover sales trends, identify top-performing products, and gain 
 2. Open the **Power BI file** (`dashboard.pbix`) in **Power BI Desktop**.  
 3. If asked for a data source:
    - Go to **Transform Data → Data Source Settings → Change Source**.  
-   - Select the Excel file (`amazon_sales_data.xlsx`) from the project folder.  
+   - Select the Excel file (`amazon_sales.xlsx`) from the project folder.  
 4. (Optional) Run the provided **SQL scripts** to verify calculations such as total sales and product counts.  
 5. Explore the dashboard interactively.
 
@@ -71,5 +71,6 @@ The goal is to uncover sales trends, identify top-performing products, and gain 
 ## 🔹 Author
 👤 **Sudhanshu Dhawale**  
 📧 **sudhanshudhawale1@gmail.com**  
+
 
 
